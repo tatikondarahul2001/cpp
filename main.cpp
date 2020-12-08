@@ -5,5 +5,5 @@ int main(int argc, char** argv)
 {
 cout<<a;
 return 0;
-}
 
+}
