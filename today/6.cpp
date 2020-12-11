@@ -10,7 +10,7 @@ union s
 };
 int main()
 {
-struct s a;
+union s a;
 a.fu();
 }
 
